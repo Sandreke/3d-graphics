@@ -1,6 +1,6 @@
 # 3d-graphics
 
-This repository contains a collection of scripts and examples for creating three-dimensional graphical visualizations using Python. 
+This repository contains a collection of scripts and examples for creating three-dimensional graphical visualizations using [Python](https://www.python.org/) 🐍. 
 
 ## 🧑‍💻 You can create...
 
