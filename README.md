@@ -1,4 +1,4 @@
-![3d_flower4](https://github.com/Sandreke/3d-graphics/assets/64377961/fffc8943-b6de-46b4-b931-e246a270b205)# 3d-graphics
+# 3d-graphics
 
 This repository contains a collection of scripts and examples for creating three-dimensional graphical visualizations using [Python](https://www.python.org/) 🐍. 
 
