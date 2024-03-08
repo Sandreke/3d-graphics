@@ -12,3 +12,9 @@ This repository contains a collection of scripts and examples for creating three
 ### • 3D [heart](https://www.instagram.com/p/C2fRAemLipW/):
 
 <img src="https://github.com/Sandreke/3d-graphics/assets/64377961/f102bce1-dd18-4cec-b828-116f7ebfea28" width="250" height="250"/>
+
+
+### • 3D [rose](https://www.instagram.com/p/C4ObqB9P7AM/):
+
+<img src="https://github.com/Sandreke/3d-graphics/assets/64377961/6ea7b866-541e-40ee-8477-886924fff411" width="250" height="250"/>
+
