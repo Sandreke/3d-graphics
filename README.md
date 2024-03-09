@@ -18,3 +18,9 @@ This repository contains a collection of scripts and examples for creating three
 
 <img src="https://github.com/Sandreke/3d-graphics/assets/64377961/6ea7b866-541e-40ee-8477-886924fff411" width="250" height="250"/>
 
+
+### • 3D [purple flower](https://www.instagram.com/p/C4RjQVQLqVr/):
+
+<img src="https://github.com/Sandreke/3d-graphics/assets/64377961/0e70d873-71e9-4a62-8780-dac94cfda7c8" width="250" height="250"/>
+
+
