@@ -22,3 +22,8 @@ This repository contains a collection of scripts and examples for creating three
 ### • 3D [rose](https://www.instagram.com/p/C4ObqB9P7AM/):
 
 <img src="https://github.com/Sandreke/3d-graphics/assets/64377961/6ea7b866-541e-40ee-8477-886924fff411" width="250" height="250"/>
+
+
+### • 3D [yellow flower](https://www.instagram.com/p/C4_8P-NLlwt/):
+
+<img src="https://github.com/Sandreke/3d-graphics/assets/64377961/9e9eced6-bb9b-4a51-9056-c6cef34b480f" width="250" height="250"/>
