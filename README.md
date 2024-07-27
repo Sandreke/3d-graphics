@@ -15,9 +15,9 @@ This repository contains a collection of scripts and examples for creating three
 
 
 ### • 3D [heart w/ image](https://www.instagram.com/p/C5jvUwuPM58/):
-> Input: *imgs/RoRo.png*
+> Input: *imgs/roro.png*
 
-<img src="https://github.com/user-attachments/assets/31ded8e7-04b8-4432-810d-907441a069e6" width="250" height="250"/>
+<img src="https://github.com/user-attachments/assets/e5654565-0f15-443c-b452-4fb79d15b1e3" width="250" height="250"/>
 
 
 ### • 3D [pink flower](https://www.instagram.com/p/C56CxIDrp7V/):
