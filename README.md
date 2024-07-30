@@ -14,7 +14,7 @@ This repository contains a collection of scripts and examples for creating three
 <img src="https://github.com/Sandreke/3d-graphics/assets/64377961/f102bce1-dd18-4cec-b828-116f7ebfea28" width="250" height="250"/>
 
 
-### • 3D [heart w/ image](https://www.instagram.com/p/C5jvUwuPM58/):
+### • 3D [heart w/ image](https://www.instagram.com/p/C95ytxjv_qT/):
 > Input: *imgs/roro.png*
 
 <img src="https://github.com/user-attachments/assets/e5654565-0f15-443c-b452-4fb79d15b1e3" width="250" height="250"/>
