@@ -4,6 +4,11 @@ This repository contains a collection of scripts and examples for creating three
 
 ## 🧑‍💻 You can create...
 
+### • 3D [christmas tree](https://www.instagram.com/p/DD0GGGaSNFG/):
+
+<img src="https://github.com/user-attachments/assets/1945d5f3-45bc-49a3-8460-71bb3908545f" width="250"/>
+
+
 ### • 3D [flower](https://www.instagram.com/p/C3tPyzZPw0m/):
 
 <img src="https://github.com/Sandreke/3d-graphics/assets/64377961/282d07e8-9e81-4cdb-a2dc-5a1f85a98f16" width="250" height="250"/>
